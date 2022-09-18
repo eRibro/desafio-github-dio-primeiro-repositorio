@@ -1,0 +1,4 @@
+Para iniiciar o aprendizado no Git e GitHub, antes de mais nada devemos;
+- Abrir uma conta , com emailvalido, no GitHub,
+- "Baixar" e instalar o Git, na máquina de trabalho.
+-  
